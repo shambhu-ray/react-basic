@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/shambhu-ray/react-basic/static/css/main.071d3320.chunk.css",
-    "main.js": "/shambhu-ray/react-basic/static/js/main.79a81d20.chunk.js",
-    "main.js.map": "/shambhu-ray/react-basic/static/js/main.79a81d20.chunk.js.map",
-    "runtime~main.js": "/shambhu-ray/react-basic/static/js/runtime~main.384b8d52.js",
-    "runtime~main.js.map": "/shambhu-ray/react-basic/static/js/runtime~main.384b8d52.js.map",
-    "static/js/2.765d0f25.chunk.js": "/shambhu-ray/react-basic/static/js/2.765d0f25.chunk.js",
-    "static/js/2.765d0f25.chunk.js.map": "/shambhu-ray/react-basic/static/js/2.765d0f25.chunk.js.map",
-    "index.html": "/shambhu-ray/react-basic/index.html",
-    "precache-manifest.ea72c3f90d9c0732eeb2ccaa09cf6bf6.js": "/shambhu-ray/react-basic/precache-manifest.ea72c3f90d9c0732eeb2ccaa09cf6bf6.js",
-    "service-worker.js": "/shambhu-ray/react-basic/service-worker.js",
-    "static/css/main.071d3320.chunk.css.map": "/shambhu-ray/react-basic/static/css/main.071d3320.chunk.css.map"
+    "main.css": "/react-basic/static/css/main.071d3320.chunk.css",
+    "main.js": "/react-basic/static/js/main.3b769290.chunk.js",
+    "main.js.map": "/react-basic/static/js/main.3b769290.chunk.js.map",
+    "runtime~main.js": "/react-basic/static/js/runtime~main.bbc5739d.js",
+    "runtime~main.js.map": "/react-basic/static/js/runtime~main.bbc5739d.js.map",
+    "static/js/2.765d0f25.chunk.js": "/react-basic/static/js/2.765d0f25.chunk.js",
+    "static/js/2.765d0f25.chunk.js.map": "/react-basic/static/js/2.765d0f25.chunk.js.map",
+    "index.html": "/react-basic/index.html",
+    "precache-manifest.76b82f01ab302410267263bc8e654f8b.js": "/react-basic/precache-manifest.76b82f01ab302410267263bc8e654f8b.js",
+    "service-worker.js": "/react-basic/service-worker.js",
+    "static/css/main.071d3320.chunk.css.map": "/react-basic/static/css/main.071d3320.chunk.css.map"
   }
 }
